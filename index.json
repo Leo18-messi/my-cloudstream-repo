@@ -1,0 +1,16 @@
+{
+  "name": "My Custom Repo",
+  "version": 1,
+  "plugins": [
+    {
+      "name": "StreamPlay",
+      "internalName": "StreamPlay",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3"
+    },
+    {
+      "name": "CineStream",
+      "internalName": "CineStream",
+      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3"
+    }
+  ]
+}
