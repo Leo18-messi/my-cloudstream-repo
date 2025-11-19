@@ -1,0 +1,14 @@
+{
+  "addons": [
+    {
+      "name": "CineStream",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/main/builds/CineStream.cs3"
+    },
+    {
+      "name": "StreamPlay",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/main/builds/StreamPlay.cs3"
+    }
+  ]
+}
