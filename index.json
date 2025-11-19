@@ -1,14 +1,8 @@
 {
-  "addons": [
-    {
-      "name": "CineStream",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3"
-    },
-    {
-      "name": "StreamPlay",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3"
-    }
+  "name": "My CloudStream Repo",
+  "description": "Custom CloudStream repository.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://leo18-messi.github.io/my-cloudstream-repo/builds/repo.json"
   ]
 }
